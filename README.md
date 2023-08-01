@@ -28,3 +28,7 @@ There are two ways to enable [virtualization.framework](https://developer.apple.
 3. Use the tooling of your choice to distribute the settings.json file to each machine at the following path: `$HOME/Library/Group\ Containers/group.com.docker/settings.json`
 
 4. Restart Docker Desktop. 
+
+### Citations and helpful links
+* [Change Docker Desktop Settings on Mac](https://docs.docker.com/desktop/settings/mac/)
+* [The Magic behind the scenes of Docker Desktop](https://www.docker.com/blog/the-magic-behind-the-scenes-of-docker-desktop/)
